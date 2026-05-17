@@ -24,13 +24,18 @@ The website provides a modern, responsive, and interactive user experience with 
 
 # 📸 Portfolio Preview
 
-## 🏠 Home Page
-![Home Page](https://drive.google.com/file/d/1W1r0JFs4l8_c9SrvEfwMBcJhafXIY6On/view?usp=drive_link)
+## 🔐 Admin Login Page
+![Admin Login Page](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/admin-login.png)
 
 ---
 
-## 👨‍💻 About Section
-![About Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/about-section.png)
+## 🏠 Home / Introduction Page
+![Home Page](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/home-page.png)
+
+---
+
+## 📂 Projects Section
+![Projects Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/projects-section.png)
 
 ---
 
@@ -39,8 +44,8 @@ The website provides a modern, responsive, and interactive user experience with 
 
 ---
 
-## 📂 Projects Section
-![Projects Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/projects-section.png)
+## 🎓 Education Section
+![Education Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/education-section.png)
 
 ---
 
