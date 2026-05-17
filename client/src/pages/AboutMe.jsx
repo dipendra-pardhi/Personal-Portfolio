@@ -44,7 +44,7 @@ const AboutMe = () => {
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec]">
             <span className="text-white">I am a </span>
             <Typewriter
-              words={[aboutMe.description || "Data Analyst", "Microsoft Power BI Developer", "Microsoft Excel Developer"]}
+              words={[aboutMe.description || "Data Analyst", "Power BI Developer" ]}
               loop
               cursor
               cursorStyle="|"
