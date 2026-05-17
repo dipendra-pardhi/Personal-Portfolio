@@ -36,7 +36,7 @@ The website provides a modern, responsive, and interactive user experience with 
 
 ## 📂 Projects Section
 ![Projects Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190044.png)
-![Projects Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190044.png)
+![Projects Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190022.png)
 ![Projects Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190044.png)
 
 ---
