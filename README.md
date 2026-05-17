@@ -25,7 +25,7 @@ The website provides a modern, responsive, and interactive user experience with 
 # 📸 Portfolio Preview
 
 ## 🔐 Admin Login Page
-![Admin Login Page](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/admin-login.png)
+![Admin Login Page](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190933.png)
 
 ---
 
