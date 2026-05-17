@@ -47,7 +47,7 @@ The website provides a modern, responsive, and interactive user experience with 
 ---
 
 ## 🎓 Education Section
-![Education Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/education-section.png)
+![Education Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20190124.png)
 
 ---
 
