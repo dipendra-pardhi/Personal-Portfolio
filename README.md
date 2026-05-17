@@ -30,7 +30,7 @@ The website provides a modern, responsive, and interactive user experience with 
 ---
 
 ## 🏠 Home / Introduction Page
-![Home Page](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/home-page.png)
+![Home Page](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20185741.png)
 
 ---
 
