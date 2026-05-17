@@ -42,7 +42,7 @@ The website provides a modern, responsive, and interactive user experience with 
 ---
 
 ## 🛠 Skills Section
-![Skills Section](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/skills-section.png)
+![Skills Section](https://github.com/dipendra-pardhi/Personal-Portfolio/blob/main/client/Screenshot%202026-05-17%20185850.png)
 
 ---
 
