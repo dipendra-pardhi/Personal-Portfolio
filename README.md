@@ -25,7 +25,7 @@ The website provides a modern, responsive, and interactive user experience with 
 # 📸 Portfolio Preview
 
 ## 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/dipendra-pardhi/Personal-Portfolio/main/client/public/portfolio-home.png)
+![Home Page](https://drive.google.com/file/d/1W1r0JFs4l8_c9SrvEfwMBcJhafXIY6On/view?usp=drive_link)
 
 ---
 
